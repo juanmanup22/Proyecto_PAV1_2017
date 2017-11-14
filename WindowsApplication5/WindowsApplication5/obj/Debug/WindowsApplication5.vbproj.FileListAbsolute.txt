@@ -1,0 +1,22 @@
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_categoria.resources
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_cliente2.resources
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_login.resources
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_presupuesto.resources
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_producto.resources
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_inicio.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_reporte_presupuestos.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Parametros.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_reporte_productos.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\RdlCompile.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\RdlCompile.compiled
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frm_listado_clientes.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Papelera Yacanto.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Papelera Yacanto.exe
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Papelera Yacanto.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\Papelera Yacanto.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Papelera Yacanto.exe
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Papelera Yacanto.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Papelera Yacanto.pdb
